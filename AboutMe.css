@@ -1,0 +1,89 @@
+body {
+    background-color: #CC0000;
+    color: white;
+}
+
+
+#info {
+    border: 5px solid white;
+    overflow: hidden;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    background-color: black;
+}
+
+#myPhoto {
+    height: 25%;
+    width: 25%;
+    position: relative;
+    float: right;
+    margin-top: -80px;
+    border-left: 3px solid white;
+    border-bottom: 3px solid white;
+    padding-bottom: 0px;
+
+}
+
+#info h1 {
+    margin-left: -150px;
+}
+
+#SideTable {
+    background-color: black;
+    border-top: 3px solid white;
+    text-align: left;
+}
+
+#hobbies {
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+#CountOn {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+#Story {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+hr {
+    height: 2px;
+    background-color: white;
+    border-width:0;
+    color:white;
+}
+
+#left {
+    
+    width: 450px;
+    height: 500px;
+    position: absolute;
+    top: 400px;
+    text-align: center;
+}
+
+#right {
+    width: 450px;
+    height: 500px;
+    position: absolute;
+    right:0px;
+    top: 400px;
+    text-align: center;
+}
+
+#left a{
+    color: black;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+#right a{
+    color: black;
+    font-weight: bolder;
+    font-size: 40px;
+}
